@@ -1,6 +1,6 @@
 {
   "name": "@talk-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "kenjiding <kenjiding@tencent.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@talk-cli-dev/utils": "^0.0.3"
+    "@talk-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "5421a8af188dcffecd1153d4c5b99e7915229451"
 }
