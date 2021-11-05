@@ -3,5 +3,5 @@
 module.exports = core;
 
 function core() {
-  console.log('我是core   lerna的packages');
+  console.log('我是core   lerna的packages', 1111);
 }
